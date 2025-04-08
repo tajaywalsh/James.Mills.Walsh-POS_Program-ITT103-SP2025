@@ -2,4 +2,45 @@ Authors: Sackeera Mills, Tahzai James and Tajay Walsh
 Creation Date: March 19, 2025
 Course: ITT103 Programming Techniques
 
-GitHub public URL to code: 
+POINT OF SALE (POS) SYSTEM
+---------------------------
+
+PROGRAM OVERVIEW:
+This is a Point of Sale (POS) System that allows users to manage product sales, including:
+- Viewing a product catalog with prices and stock levels.
+- Adding products to a shopping cart.
+- Processing transactions and updating stock.
+- Providing a simple interface for managing sales.
+
+---------------------------
+
+HOW TO RUN:
+1. Ensure you have Python 3.x installed on your system.
+2. Download or clone the project files.
+3. Open a terminal or command prompt.
+4. Navigate to the directory containing the program.
+5. Run the program using the command:
+   python James.Mills.Walsh-POS_Program-ITT103-SP2025.py
+
+---------------------------
+
+REQUIRED MODIFICATIONS:
+- Modify the `products` dictionary to update prices or add new items.
+- Implement a database instead of a static dictionary for persistent storage.
+- Enhance the user interface with a graphical interface (GUI).
+- Add error handling for invalid inputs.
+
+---------------------------
+
+ASSUMPTIONS & LIMITATIONS:
+- The program assumes that users input correct product names (case-sensitive).
+- Stock is manually set in the code and does not persist after the program exits.
+- The system currently supports a single transaction at a time.
+- Future enhancements may include user authentication and transaction history tracking.
+
+---------------------------
+
+CONTRIBUTORS:
+If you wish to contribute, feel free to fork the repository and submit a pull request.
+
+For any questions or issues, contact the authors.
